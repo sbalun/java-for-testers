@@ -10,7 +10,9 @@ public class User{
     private String password;
 
     // Constructor
-    // We knows it's a constructor because it has no return type and it's named the same as the class
+    // We knows it's a constructor because it
+    //    1. has no return type
+    //    2. it's named the same as the class
     // complete with Uppercase letter, User
     public User(){
         this("username","password");

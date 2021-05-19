@@ -4,12 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a85eb414-4a69-4706-8093-9f6653ed9997" name="Default Changelist" comment="exercises thru chapter 6" />
+    <list default="true" id="a85eb414-4a69-4706-8093-9f6653ed9997" name="Default Changelist" comment="exercises thru chapter 6">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap008selectiondecisions/exercises/SelectionExercisesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap003myfirsttest.examples.MyFirstTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap003myfirsttest.examples.MyFirstTest.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$/reports" userTempatePath="" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -38,6 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -51,93 +62,92 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserTest">
-    <configuration name="TestAppEnvironmentTest.canGetUrlStatically" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SelectionExercisesTest.doYouUnderstandScotty">
+    <configuration name="ImportTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-for-testers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap005testwithourownclasses.domainobject.examples.*" />
+          <option name="PATTERN" value="com.javafortesters.chap007basicsofjavarevisited.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap005testwithourownclasses.domainobject.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest" />
-      <option name="METHOD_NAME" value="canGetUrlStatically" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-for-testers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap006domainentities.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap006domainentities.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap006domainentities.examples.UserTest" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples.ImportTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.canConstructWithUsernameAndPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectionExercisesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-for-testers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap006domainentities.examples.*" />
+          <option name="PATTERN" value="com.javafortesters.chap008selectiondecisions.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap006domainentities.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap006domainentities.examples.UserTest" />
-      <option name="METHOD_NAME" value="canConstructWithUsernameAndPassword" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap008selectiondecisions.exercises" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap008selectiondecisions.exercises.SelectionExercisesTest" />
+      <option name="METHOD_NAME" value="catOrCats" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionExercisesTest.catOrCats" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-for-testers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.chap008selectiondecisions.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap008selectiondecisions.exercises" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap008selectiondecisions.exercises.SelectionExercisesTest" />
+      <option name="METHOD_NAME" value="catOrCats" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.canSetPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectionExercisesTest.doYouUnderstandScotty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-for-testers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap006domainentities.examples.*" />
+          <option name="PATTERN" value="com.javafortesters.chap008selectiondecisions.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap006domainentities.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap006domainentities.examples.UserTest" />
-      <option name="METHOD_NAME" value="canSetPassword" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap008selectiondecisions.exercises" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap008selectiondecisions.exercises.SelectionExercisesTest" />
+      <option name="METHOD_NAME" value="doYouUnderstandScotty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.userHasDefaultNameAndPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringsExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-for-testers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap006domainentities.examples.*" />
+          <option name="PATTERN" value="com.javafortesters.chap007basicsofjavarevisited.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap006domainentities.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap006domainentities.examples.UserTest" />
-      <option name="METHOD_NAME" value="userHasDefaultNameAndPassword" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples.StringsExampleTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserTest" />
-        <item itemvalue="JUnit.UserTest.canSetPassword" />
-        <item itemvalue="JUnit.UserTest.canConstructWithUsernameAndPassword" />
-        <item itemvalue="JUnit.UserTest.userHasDefaultNameAndPassword" />
-        <item itemvalue="JUnit.TestAppEnvironmentTest.canGetUrlStatically" />
+        <item itemvalue="JUnit.SelectionExercisesTest.doYouUnderstandScotty" />
+        <item itemvalue="JUnit.SelectionExercisesTest" />
+        <item itemvalue="JUnit.SelectionExercisesTest.catOrCats" />
+        <item itemvalue="JUnit.StringsExampleTest" />
+        <item itemvalue="JUnit.ImportTest" />
       </list>
     </recent_temporary>
   </component>
