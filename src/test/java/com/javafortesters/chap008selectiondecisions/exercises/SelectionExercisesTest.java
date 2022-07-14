@@ -9,7 +9,7 @@ public class SelectionExercisesTest {
     @Test
     public void doYouUnderstandScotty(){
         boolean understands = false;
-        int hoursSpentStudying = 1;
+        int hoursSpentStudying = 10;
         assertEquals("Study more buddy", true, (hoursSpentStudying > 1) ? understands = true : understands);
     }
     @Test
